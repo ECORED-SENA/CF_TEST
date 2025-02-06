@@ -8,6 +8,9 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+
+    p lorem ipsum.
     
 </template>
 
